@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "jsonfile": "^4.0.0",
+    "ora": "^1.3.0",
+    "puppeteer": "^1.0.0"
+  },
+  "name": "coinmarketcap-historical-data-crawler",
+  "version": "1.0.0",
+  "description": "Command-line interface to fetch historical infos from coinmarketcap.com",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roNn23/coinmarketcap-historical-data-crawler.git"
+  },
+  "keywords": [
+    "coinmarketcap",
+    "cryptocurrency",
+    "bitcoin",
+    "ether",
+    "crypto",
+    "dash",
+    "crawler"
+  ],
+  "author": "roNn23",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roNn23/coinmarketcap-historical-data-crawler/issues"
+  },
+  "homepage": "https://github.com/roNn23/coinmarketcap-historical-data-crawler#readme",
+  "readme": "README.md",
+  "bin": {
+    "cmc-info": "index.js"
+  }
+}
