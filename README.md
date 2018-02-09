@@ -17,7 +17,7 @@ To run the crawler, run the following command.
 yarn start
 ```
 
-After that the, the data is saved in `data.json`.
+After that, the data is saved in `data.json`.
 
 ## Data Structure
 
