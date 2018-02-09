@@ -1,6 +1,8 @@
 # coinmarketcap-historical-data-crawler
 
 Command-line interface to fetch historical from coinmarketcap.com with puppeteer.
+This script was built to get into and test puppeteer as a crawler 
+and to substitute the missing API for historical data from coinmarketcap.com.
 
 ## Install
 
