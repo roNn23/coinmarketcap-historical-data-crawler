@@ -5,7 +5,6 @@ This script was built to get into and test puppeteer as a crawler
 and to substitute the missing API for historical data/snapshots from coinmarketcap.com.
 
 ## Install
-
 ```
 git clone git@github.com:roNn23/coinmarketcap-historical-data-crawler.git
 cd coinmarketcap-historical-data-crawler
@@ -13,7 +12,7 @@ yarn
 ```
 
 ## Usage
-To run the crawler, run the following command.
+To run the crawler, run the following command. Please be sure to run node > 8.
 
 ```
 yarn start
